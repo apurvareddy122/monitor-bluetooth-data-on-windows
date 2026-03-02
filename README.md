@@ -6,3 +6,5 @@ This Python utility allows you to connect to a Bluetooth Low Energy (BLE) device
 In my regular workflow, I typically use bluetoothctl on Linux to test and validate Bluetooth firmware. Linux provides excellent low-level visibility and control over BLE interactions. However, during a recent situation where I only had access to a Windows machine, I researched for a Python workaround and found that the Bleak library.
 
 Feel free to contact me for any support, suggestions or improvements.
+
+<img width="498" height="475" alt="image" src="https://github.com/user-attachments/assets/2ebfca1d-4c24-4853-8a54-468f23a46b5b" />
